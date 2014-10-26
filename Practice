@@ -1,0 +1,51 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+    <head>
+    <!-- This tag allows me to identify the title of this particular webpage --> 
+          <title>Caleb J. Haugen</title>
+    </head>
+    
+    <body>
+    	<!-- This next step will display my name at the top of the web page, centered -->
+    	<center>
+                <h2>Caleb J. Haugen</h2>
+        </center>
+        <!-- This will display the header "Major" with the h3 option -->
+        <h3>Major</h3>
+        
+         <!-- This next step will provide my web page with an ordered list that displays my name and expected graduation year. The list is started with <ol> and ended with </ol> -->  
+        <ol>
+
+                   <li>Computer Science</li>
+                   <li>2018</li>
+        </ol>      
+        
+        <!-- This will display the header "Computer Experience" with the h3 option -->
+        <h3>Computer Experience</h3>
+        <!-- <p> will start a new paragraph that will contain my computer experience, with the paragraph being ended by the tag </p> -->
+        <p> I've previously taken two college classes dealing with computers, and learned the essentials of visual basic.
+        I assisted a school in with their computer systems updates by setting up 200 new computers and re-imaging all of them
+        using an open source FOG software.  I ran a business during highschool in which I edited and created movies for people using
+        various computer programs. </p>
+        
+         <!-- This will display the header "Calling" with the h3 option -->
+        <h3>Calling</h3>
+        <!-- <p> will start a new paragraph that will contain my calling, with the paragraph being ended by the tag </p> -->
+        <p> I feel that, after college, God is calling me to move to New York City, and work there as a computer scientist,
+        particularly in the field of information security.  I've been to the city before and felt that it was truly my place of
+        calling.  I have no idea what God want's me to do ministry wise there, but I am certain that everything will work out in 
+        His favor. </p>
+        
+         <!-- This will display the header "Additional Facts" with the h3 option -->
+        <h3>Additional Facts</h3>
+    
+    <!-- This next step will provide my web page with an ordered list that displays some additional information about myself, which is started by the tag <ol> and ended with </ol> -->    
+        <ol>
+    
+        			<li>I played lead guitar in a band during highschool</li>
+        			<li>My favorite candy is Reeses</li>
+        			<li>I write poetry</li>
+        </ol>
+        
+    </body>
+    
